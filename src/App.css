@@ -1,0 +1,17 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  /* font-family: "Adobe Clean", "Adobe Clean Serif", "Adobe Clean UX"; */
+  /* font-family: 'Assistant', sans-serif; */
+  font-family: 'Roboto', sans-serif;
+}
+
+a,
+a:hover,
+a:focus,
+a:active {
+  text-decoration: none;
+  color: inherit;
+}
+
